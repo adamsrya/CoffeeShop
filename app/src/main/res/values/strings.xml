@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="coffee_shop">Coffee Shop</string>
+    <string name="todo">TODO</string>
+    <string name="hello_dam">Hello Dam,</string>
+    <string name="search">@null</string>
+    <string name="imagev" />
+    <string name="notif" />
+    <string name="coffee">Coffee</string>
+    <string name="non_coffee">Non Coffee</string>
+    <string name="extras">Extras</string>
+    <string name="machine_coffee">Machine Coffee</string>
+    <!-- Runnable for DarkMode  -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
